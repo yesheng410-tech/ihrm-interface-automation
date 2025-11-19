@@ -10,7 +10,7 @@
 - 测试框架：unittest
 - 数据驱动：JSON
 - 全量字段校验：JSON Schema
-- 报告生成：unittest-html
+- 报告生成：HTMLTestReport
 
 ## 项目结构
 ihrm-interface-automation/
@@ -31,7 +31,7 @@ ihrm-interface-automation/
 ## 使用方法
 1. 克隆仓库：`git clone https://github.com/yesheng410-tech/ihrm-interface-automation`
 2. 安装依赖：`pip install -r requirements.txt`
-3. 运行用例：`unittest scripts/test_login.py --html=report.html`
+3. 运行run_suite文件
 
 
 
