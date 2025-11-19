@@ -1,0 +1,14 @@
+# Python环境文件
+venv/
+env/
+*.pyc
+__pycache__/
+
+# 测试报告/日志
+*.html
+log/
+*.log
+
+# 系统临时文件
+.DS_Store
+Thumbs.db
