@@ -29,7 +29,7 @@ ihrm-interface-automation/
 
 
 ## 使用方法
-1. 克隆仓库：`git clone https://github.com/你的GitHub用户名/ihrm-interface-automation.git`
+1. 克隆仓库：`git clone https://github.com/yesheng410-tech/ihrm-interface-automation`
 2. 安装依赖：`pip install -r requirements.txt`
 3. 运行用例：`unittest scripts/test_login.py --html=report.html`
 
