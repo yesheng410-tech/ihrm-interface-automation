@@ -7,7 +7,7 @@
 ## 技术栈
 - 语言：Python
 - 接口请求：requests
-- 测试框架：pytest
+- 测试框架：unittest
 - 数据驱动：JSON
 - 全量字段校验：JSON Schema
 - 报告生成：pytest-html
@@ -31,7 +31,7 @@ ihrm-interface-automation/
 ## 使用方法
 1. 克隆仓库：`git clone https://github.com/你的GitHub用户名/ihrm-interface-automation.git`
 2. 安装依赖：`pip install -r requirements.txt`
-3. 运行用例：`unittest test_case/test_login.py --html=report.html`
+3. 运行用例：`unittest scripts/test_login.py --html=report.html`
 
 
 
