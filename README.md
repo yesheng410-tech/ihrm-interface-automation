@@ -10,7 +10,7 @@
 - 测试框架：unittest
 - 数据驱动：JSON
 - 全量字段校验：JSON Schema
-- 报告生成：pytest-html
+- 报告生成：unittest-html
 
 ## 项目结构
 ihrm-interface-automation/
